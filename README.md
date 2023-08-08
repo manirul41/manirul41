@@ -14,7 +14,6 @@
 
 [![Javascript](https://img.shields.io/badge/Code-Javascript-informational?style=for-the-badge&logo=Javascript&labelColor=17202A&color=1abc9c)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![ReactJS](https://img.shields.io/badge/Code-ReactJS-informational?style=for-the-badge&logo=React&labelColor=17202A&color=1abc9c)](https://reactjs.org/)
-[![NextJS](https://img.shields.io/badge/Code-ReactJS-informational?style=for-the-badge&logo=React&labelColor=17202A&color=1abc9c)](https://reactjs.org/)
 [![ReactNative](https://img.shields.io/badge/Code-React_Native-informational?style=for-the-badge&logo=React&labelColor=17202A&color=1abc9c)](https://reactnative.dev/)
 [![PHP](https://img.shields.io/badge/Code-PHP-informational?style=for-the-badge&logo=php&labelColor=17202A&color=1abc9c)](https://www.php.net/)
 [![Laravel](https://img.shields.io/badge/Code-Laravel-informational?style=for-the-badge&logo=laravel&labelColor=17202A&color=1abc9c)](https://laravel.com/)
